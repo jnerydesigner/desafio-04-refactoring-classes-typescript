@@ -32,6 +32,9 @@ export function Input({ name, icon: Icon, ...rest }: IInputProps) {
     setIsFocused(true);
   }, []);
 
+
+
+
   const handleInputBlur = useCallback(() => {
     setIsFocused(false);
 
