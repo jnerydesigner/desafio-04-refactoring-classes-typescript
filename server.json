@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://cart-redux.s3.amazonaws.com/tapioca01.png",
+      "name": "Tapioca de Castanha e Queijo",
+      "price": "35,00",
+      "description": "Tapioca com castanha e queijo recheada.",
+      "available": true,
+      "id": 4
     }
   ]
 }
